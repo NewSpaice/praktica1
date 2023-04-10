@@ -7,6 +7,6 @@ void main () {
     while (true)
     {
     int i++;
-    cout << i;
+    cout << i+1;
     }
 }
