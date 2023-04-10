@@ -6,7 +6,8 @@ void main () {
 
     while (true)
     {
-    int i++;
-    cout << i;
+    int i--;
+    cout << "Уменьшается"<<i;
+    cout<<endl;
     }
 }
